@@ -1,10 +1,10 @@
 Nova Bits Portfolio
 
-Welcome to the official portfolio of NovaBIts! This website showcases our collective skills, projects, and accomplishments in the world of software development and technology.
+Welcome to the official portfolio of NovaBits! This website showcases our collective skills, projects, and accomplishments in the world of software development and technology.
 
 About Us
 
-NovaBIts is a group of passionate developers with a shared goal of creating innovative solutions and improving our coding expertise. We specialize in web development, machine learning, and algorithmic problem-solving.
+NovaBits is a group of passionate developers with a shared goal of creating innovative solutions and improving our coding expertise. We specialize in web development, machine learning, and algorithmic problem-solving.
 
 What You’ll Find Here
 • Our Projects: A showcase of various projects we’ve worked on, demonstrating our skills in front-end and back-end development, as well as machine learning.
