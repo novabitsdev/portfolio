@@ -1,4 +1,4 @@
-Syntax Forgers Portfolio
+Nova Bits Portfolio
 
 Welcome to the official portfolio of Syntax Forgers! This website showcases our collective skills, projects, and accomplishments in the world of software development and technology.
 
